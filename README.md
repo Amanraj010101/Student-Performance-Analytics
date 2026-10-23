@@ -43,3 +43,13 @@ Aman Raj
 Internship
 
 EWB Courses — Python with AI
+## Project Charts
+
+### 1. Student Total Marks
+![Student Total Marks](student_chart.png)
+
+### 2. Subject-wise Performance
+![Subject-wise Performance](student_performance.png)
+
+### 3. Top 3 Students
+![Top 3 Students](top_3_students.png)
